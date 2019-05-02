@@ -5,6 +5,8 @@
 
 ![sample movie](./mov/sample.gif)
 
+Inserted citation-keys can be used to generate a reference list through [`pandoc`](https://pandoc.org).
+
 ## Requirements
 
 - [`deoplete`](https://github.com/Shougo/deoplete.nvim)
