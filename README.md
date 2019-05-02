@@ -1,7 +1,6 @@
 # deoplete-citation
 
-`deoplete-citation` is the deoplete source.  
-`deoplete-citation` enables the completion of citation-keys.
+`deoplete-citation` is the deoplete source, which enables the completion of citation-keys.
 
 ![sample movie](./mov/sample.gif)
 
