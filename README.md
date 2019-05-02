@@ -1,6 +1,7 @@
-# deoplete-citation.vim
+# deoplete-citation
 
-`deoplete-citation.vim` enables the completion of citation-keys.
+`deoplete-citation` is the deoplete source.
+`deoplete-citation` enables the completion of citation-keys.
 
 ![sample movie](./mov/sample.gif)
 
@@ -12,3 +13,4 @@
 ## How to Use
 
 Copy `deoplete-citation.py` in `$XDG_CONFIG_HOME/nvim/rplugin/python3/deoplete/sources/`.
+The prefix, `@`, will start the completion.
