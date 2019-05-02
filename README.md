@@ -2,6 +2,8 @@
 
 `deoplete-citation.vim` enables the completion of citation-keys.
 
+![sample movie](./mov/sample.gif)
+
 ## Requirements
 
 - [`deoplete`](https://github.com/Shougo/deoplete.nvim)
