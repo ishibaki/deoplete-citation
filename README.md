@@ -5,7 +5,7 @@
 
 ![sample movie](./mov/sample.gif)
 
-Inserted citation-keys can be used to generate a reference list through [`pandoc`](https://pandoc.org).
+Inserted citation-keys can be used to generate a reference list through [`pandoc`](https://pandoc.org/MANUAL.html#citations).
 
 ## Requirements
 
