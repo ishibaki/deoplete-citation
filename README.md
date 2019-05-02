@@ -12,5 +12,5 @@
 
 ## How to Use
 
-Copy `deoplete-citation.py` in `$XDG_CONFIG_HOME/nvim/rplugin/python3/deoplete/sources/`.
-The prefix, `@`, will start the completion.
+- Copy `deoplete-citation.py` in `$XDG_CONFIG_HOME/nvim/rplugin/python3/deoplete/sources/`.
+- The prefix, `@`, will start the completion.
